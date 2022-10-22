@@ -1,0 +1,30 @@
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 3,62,0,0
+ PRODUCTVERSION 3,62,0,0
+ FILEFLAGSMASK 0x17L
+ FILEFLAGS 0x0L
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "000004b0"
+        BEGIN
+            VALUE "Comments", "Version 3.62.0-noupdate"
+            VALUE "CompanyName", "FileZilla Project"
+            VALUE "FileDescription", "FileZilla FTP Client"
+            VALUE "FileVersion", "3, 62, 0, 0"
+            VALUE "InternalName", "FileZilla 3"
+            VALUE "LegalCopyright", "Copyright (C) 2006-2022"
+            VALUE "OriginalFilename", "filezilla.exe"
+            VALUE "ProductName", "FileZilla"
+            VALUE "ProductVersion", "3, 62, 0, 0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0, 1200
+    END
+END
+
